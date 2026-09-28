@@ -92,5 +92,5 @@ Funcionalidade: Realizar Login
 
 ## 👩‍💻 Autor
 
-Desenvolvido por **Karina Abreu** 🚀.  
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/SEU_USUARIO)
+Desenvolvido por Karina Abreu.  
+[LinkedIn](https://www.linkedin.com/in/karina-abreu-23bb8824/)
